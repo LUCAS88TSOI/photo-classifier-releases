@@ -50,3 +50,17 @@
 ## 問題回報
 
 [Issues 頁面](https://github.com/LUCAS88TSOI/photo-classifier-releases/issues) 歡迎回報 bug 與功能建議。
+
+---
+
+## 贊助支持
+
+呢個工具免費開源，由業餘時間維護更新。如果幫到你，歡迎請我飲杯咖啡 ☕，畀啲動力我繼續更新 🙏
+
+**PayMe 一掃即過數：**
+
+<img src="assets/payme-qr.jpg" alt="PayMe 贊助 QR Code" width="240">
+
+或一鍵開啟 👉 **[用 PayMe 贊助](https://payme.hsbc/289b982f31514bdfafa7d3e597aa1ab2)**
+
+多謝你嘅支持！❤️
